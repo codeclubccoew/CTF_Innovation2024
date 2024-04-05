@@ -1,0 +1,1 @@
+Find the hidden message in this text document. Hint: Remember, in the world of bits and bytes, sometimes things seem to be what they are NOT. Flag Format : CTF{decodedmessage} , the decoded message is the flag

@@ -1,0 +1,4 @@
+
+A parcel was sent via Rail Mail. The train left platform 6 and rushed through the valleys to reach the beautiful Kolli Hills. The sign on the platform read ‘GYB NQK URP’. As the train’s journey ceased, Julius waited right there, 8th in line, at the pick up point to pick up his parcel. To his surprise, it was a letter from his pen friend Simon Morse.
+
+Decrypt the message to help him find out what his dear friend had to say to him. Remember to trace each and every step in the parcel’s journey sequentially.

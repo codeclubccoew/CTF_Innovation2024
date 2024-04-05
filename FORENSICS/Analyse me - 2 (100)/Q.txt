@@ -1,0 +1,1 @@
+You want to know if the email has been read or not. Which field in the email headers can provide this information?

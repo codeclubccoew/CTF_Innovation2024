@@ -1,0 +1,1 @@
+What's the content in the email header that designates the format or type of the email? (Exclude the part that specifies the boundary between different parts of the message)
