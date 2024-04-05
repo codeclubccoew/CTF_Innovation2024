@@ -1,0 +1,1 @@
+You've intercepted a binary file named "code_breaker.exe" from a suspicious source. As you try to run the file, you realise that it is protected. What could the password be?
